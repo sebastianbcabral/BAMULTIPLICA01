@@ -1,1 +1,1 @@
-este es un documento de prueba
+este es un documento de prueba para git
